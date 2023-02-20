@@ -184,3 +184,4 @@ def test_ajout_iphone():
         elem = None
         
     driver.quit()
+#Attente de 5 secondes pour l'apparition du message de réussite
